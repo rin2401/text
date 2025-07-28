@@ -1,0 +1,4 @@
+{
+    "remote.windsurfSSH.httpProxy": "http://0.0.0.0:81",
+    "remote.windsurfSSH.httpsProxy": "http://0.0.0.0:81"
+}
