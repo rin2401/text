@@ -1,4 +1,13 @@
 {
     "remote.windsurfSSH.httpProxy": "http://0.0.0.0:81",
-    "remote.windsurfSSH.httpsProxy": "http://0.0.0.0:81"
+    "remote.windsurfSSH.httpsProxy": "http://0.0.0.0:81",
+    "python.envFile": "${workspaceFolder}/.env",
+    "windsurfPyright.analysis.extraPaths": [
+        "./libs",
+        "./src"
+    ],
+    "windsurfPyright.analysis.typeshedPaths": [
+        "./libs",
+        "./src"
+    ]
 }
